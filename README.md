@@ -1,3 +1,3 @@
 # Labyrinth
 
-This is a project where we had to make a labyrinth game using Assembly language.
+Implementation of a labyrinth game using Assembly language.
