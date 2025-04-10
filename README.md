@@ -64,9 +64,3 @@ This program simulates a player navigating a maze displayed with ASCII character
     E - Auto-solve
     ```
 
----
-
-👨‍🎓 Author
-
-This project was created by Iliodora Seferli as undergraduate student, as part of the course **Digital Computers** at the Technical University of Crete (TUC).
-
